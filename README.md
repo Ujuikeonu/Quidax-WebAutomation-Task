@@ -134,6 +134,7 @@ The tests assume that the structure of the demo site remains unchanged.
 The tests are designed to run on a local machine with internet access.
 
 **Blockers:**
+I skipped the BDD part of the exercis because i do not have much insight on how to incomporate it into the framework.
 Any changes to the HTML structure of the Selenium Easy demo site may cause the tests to fail.
 Network issues or site downtime can prevent the tests from executing successfully.
 
