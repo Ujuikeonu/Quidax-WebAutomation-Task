@@ -51,9 +51,9 @@ Prerequisites, Known Issues, Observations and Blockers
 
 ##Prerequisites:
 Before running the tests, ensure you have the following installed:
-**Node.js (version 12 or higher)**
-**npm (version 6 or higher)**
-**Cypress (version 9.0 or higher)**
+Node.js (version 12 or higher)
+npm (version 6 or higher)
+Cypress (version 9.0 or higher)
 
 Ensure stable internet connectivity during test execution. Update selectors in page object classes if encountering issues.
 
