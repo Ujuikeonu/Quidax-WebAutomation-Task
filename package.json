@@ -1,7 +1,7 @@
 {
   "name": "",
   "version": "1.0.0",
-  "description": "This is the Program Admin Portal test",
+  "description": "This is the Selenium easy exercise",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run --env APP_ENV=staging",
